@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on /<br>🌱 I’m currently learning /<br>💬 Ask me about Next.js, React.js, SEO, Firebase, Google Analytics<br>👨‍💻 All of my projects are available at /<br>📄 Know about my experiences  <br>📫 How to reach me, harshrajak6789@gmail.com
+🔭 I’m currently working on <br>🌱 I’m currently learning <br>💬 Ask me about Next.js, React.js, SEO, Firebase, Google Analytics<br>👨‍💻 All of my projects are available at <br>📄 Know about my experiences  <br>📫 How to reach me, harshrajak6789@gmail.com
 
 
 ## 🌐 Socials:
